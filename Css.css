@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.demo {
+border:1px solid #C0C0C0;
+border-collapse:collapse;
+padding:5px;
+width:auto;
+}
+.demo th {
+border:2px solid black;
+padding:20px;
+background:#58D68D ;
+}
+.demo td {
+border:1px solid black;
+padding:8px;
+text-align: center;
+font-weight: bold;
+}
+.thead{
+font-size: 28px;
+}
+.header{
+background-color: #FAE5D3  ;
+font-size: x-large;
+font-weight: bold;
+padding-top: 30px;
+text-align: justify;
+}
+.button{
+font-weight: bold;
+font-size: large;
+border-radius: 12px;
+background-color: rgb(33, 30, 252);
+padding: 5px;
+color: cornsilk;
+}
+
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  /* this is the footer section
+.fa {
+    padding: 12px;
+    font-size: 30px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.5;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  } */
